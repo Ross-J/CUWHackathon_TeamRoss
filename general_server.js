@@ -1,3 +1,4 @@
+//this server can use directly to write the webpage
 var http = require("http");
 http.createServer(function (request, response) {
   // Send the HTTP header 
