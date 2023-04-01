@@ -1,3 +1,4 @@
+//this server will read files from your computer and run them on a local host
 var http = require('http');
 var fs = require('fs');
 http.createServer(function (req, res) {
